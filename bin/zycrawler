@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'zy_crawler'
+
+crawler = ZyCrawler.new
+crawler.crawl
